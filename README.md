@@ -1,1 +1,0 @@
-# synestiaos.github.io
