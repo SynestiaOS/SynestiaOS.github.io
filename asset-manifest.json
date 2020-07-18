@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30d9b738.chunk.css",
+    "main.js": "/static/js/main.fd955fe1.chunk.js",
+    "main.js.map": "/static/js/main.fd955fe1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e8297b11.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e8297b11.js.map",
+    "static/css/2.4819d237.chunk.css": "/static/css/2.4819d237.chunk.css",
+    "static/js/2.ed06f13b.chunk.js": "/static/js/2.ed06f13b.chunk.js",
+    "static/js/2.ed06f13b.chunk.js.map": "/static/js/2.ed06f13b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7aa17e2cd6d11048277bb959cdb1b1ce.js": "/precache-manifest.7aa17e2cd6d11048277bb959cdb1b1ce.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4819d237.chunk.css.map": "/static/css/2.4819d237.chunk.css.map",
+    "static/css/main.30d9b738.chunk.css.map": "/static/css/main.30d9b738.chunk.css.map",
+    "static/js/2.ed06f13b.chunk.js.LICENSE.txt": "/static/js/2.ed06f13b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/ZillaSlab-Regular.53cbc7a5.otf",
+    "static/media/iot.png": "/static/media/iot.ad3ba53a.png",
+    "static/media/lg.jpg": "/static/media/lg.f29ecd8e.jpg",
+    "static/media/ll.png": "/static/media/ll.23459da2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8297b11.js",
+    "static/css/2.4819d237.chunk.css",
+    "static/js/2.ed06f13b.chunk.js",
+    "static/css/main.30d9b738.chunk.css",
+    "static/js/main.fd955fe1.chunk.js"
+  ]
+}
