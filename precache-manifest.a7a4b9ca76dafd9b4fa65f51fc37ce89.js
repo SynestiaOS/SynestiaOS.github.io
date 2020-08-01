@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fac76ff8ba4f3c7131745beca00fcf9b",
+    "revision": "f52ec8477cf83ac8ba491daea63b144b",
     "url": "/index.html"
   },
   {
-    "revision": "451208d1461c17df2282",
+    "revision": "bb027a21838ee361224b",
     "url": "/static/css/2.4819d237.chunk.css"
   },
   {
-    "revision": "566e8e4cd8d4a997f80f",
-    "url": "/static/css/main.3eca91e1.chunk.css"
+    "revision": "3df75d3d175af5ef6784",
+    "url": "/static/css/main.59c8365c.chunk.css"
   },
   {
-    "revision": "451208d1461c17df2282",
-    "url": "/static/js/2.6fcb6d74.chunk.js"
+    "revision": "bb027a21838ee361224b",
+    "url": "/static/js/2.2da3ad97.chunk.js"
   },
   {
     "revision": "d3eab2c800484648f446253871549a7a",
-    "url": "/static/js/2.6fcb6d74.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2da3ad97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "566e8e4cd8d4a997f80f",
-    "url": "/static/js/main.b28d85c3.chunk.js"
+    "revision": "3df75d3d175af5ef6784",
+    "url": "/static/js/main.169ba597.chunk.js"
   },
   {
     "revision": "c20a2c14bc8a0e9b27ce",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ZillaSlab-Regular.53cbc7a5.otf"
   },
   {
-    "revision": "246a29f3b0ff240c443a2f232b2076fc",
-    "url": "/static/media/doc.246a29f3.md"
+    "revision": "07cd36054e43c2be8f20b40bfdca4f58",
+    "url": "/static/media/alipay.07cd3605.png"
   },
   {
     "revision": "ad3ba53a3bd6f3df2ed3c31ea51c331e",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "23459da2053a9c27bb1d2643cab44040",
     "url": "/static/media/ll.23459da2.png"
+  },
+  {
+    "revision": "90df0414aa6cae5ba0bf22473b242255",
+    "url": "/static/media/wepay.90df0414.png"
   }
 ]);

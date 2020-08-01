@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.3eca91e1.chunk.css",
-    "main.js": "/static/js/main.b28d85c3.chunk.js",
-    "main.js.map": "/static/js/main.b28d85c3.chunk.js.map",
+    "main.css": "/static/css/main.59c8365c.chunk.css",
+    "main.js": "/static/js/main.169ba597.chunk.js",
+    "main.js.map": "/static/js/main.169ba597.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e8297b11.js",
     "runtime-main.js.map": "/static/js/runtime-main.e8297b11.js.map",
     "static/css/2.4819d237.chunk.css": "/static/css/2.4819d237.chunk.css",
-    "static/js/2.6fcb6d74.chunk.js": "/static/js/2.6fcb6d74.chunk.js",
-    "static/js/2.6fcb6d74.chunk.js.map": "/static/js/2.6fcb6d74.chunk.js.map",
+    "static/js/2.2da3ad97.chunk.js": "/static/js/2.2da3ad97.chunk.js",
+    "static/js/2.2da3ad97.chunk.js.map": "/static/js/2.2da3ad97.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d58b5e0310a2d1d710cd330aa3ce4c57.js": "/precache-manifest.d58b5e0310a2d1d710cd330aa3ce4c57.js",
+    "precache-manifest.a7a4b9ca76dafd9b4fa65f51fc37ce89.js": "/precache-manifest.a7a4b9ca76dafd9b4fa65f51fc37ce89.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4819d237.chunk.css.map": "/static/css/2.4819d237.chunk.css.map",
-    "static/css/main.3eca91e1.chunk.css.map": "/static/css/main.3eca91e1.chunk.css.map",
-    "static/js/2.6fcb6d74.chunk.js.LICENSE.txt": "/static/js/2.6fcb6d74.chunk.js.LICENSE.txt",
+    "static/css/main.59c8365c.chunk.css.map": "/static/css/main.59c8365c.chunk.css.map",
+    "static/js/2.2da3ad97.chunk.js.LICENSE.txt": "/static/js/2.2da3ad97.chunk.js.LICENSE.txt",
     "static/media/WechatIMG5497.jpeg": "/static/media/WechatIMG5497.e4af8d30.jpeg",
     "static/media/index.css": "/static/media/ZillaSlab-Regular.53cbc7a5.otf",
-    "static/media/doc.md": "/static/media/doc.246a29f3.md",
+    "static/media/alipay.png": "/static/media/alipay.07cd3605.png",
     "static/media/iot.png": "/static/media/iot.ad3ba53a.png",
     "static/media/lg.jpg": "/static/media/lg.f29ecd8e.jpg",
-    "static/media/ll.png": "/static/media/ll.23459da2.png"
+    "static/media/ll.png": "/static/media/ll.23459da2.png",
+    "static/media/wepay.png": "/static/media/wepay.90df0414.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e8297b11.js",
     "static/css/2.4819d237.chunk.css",
-    "static/js/2.6fcb6d74.chunk.js",
-    "static/css/main.3eca91e1.chunk.css",
-    "static/js/main.b28d85c3.chunk.js"
+    "static/js/2.2da3ad97.chunk.js",
+    "static/css/main.59c8365c.chunk.css",
+    "static/js/main.169ba597.chunk.js"
   ]
 }
