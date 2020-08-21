@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34cbf5114a9410f978455c25ab57068c",
+    "revision": "d4809c1e3bb556cee37f2df9089da0ff",
     "url": "/index.html"
   },
   {
-    "revision": "4206c1fdc08e969974fc",
+    "revision": "d70df70df06d26d6a902",
     "url": "/static/css/2.4819d237.chunk.css"
   },
   {
-    "revision": "75dc1e016f3a422ac470",
-    "url": "/static/css/main.4c448733.chunk.css"
+    "revision": "4cff9d005431fa7d86a9",
+    "url": "/static/css/main.cafef448.chunk.css"
   },
   {
-    "revision": "4206c1fdc08e969974fc",
-    "url": "/static/js/2.7e5bfa84.chunk.js"
+    "revision": "d70df70df06d26d6a902",
+    "url": "/static/js/2.bbec1635.chunk.js"
   },
   {
     "revision": "d3eab2c800484648f446253871549a7a",
-    "url": "/static/js/2.7e5bfa84.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bbec1635.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75dc1e016f3a422ac470",
-    "url": "/static/js/main.d14e25b7.chunk.js"
+    "revision": "4cff9d005431fa7d86a9",
+    "url": "/static/js/main.e157a16d.chunk.js"
   },
   {
     "revision": "c20a2c14bc8a0e9b27ce",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iot.ad3ba53a.png"
   },
   {
-    "revision": "23459da2053a9c27bb1d2643cab44040",
-    "url": "/static/media/ll.23459da2.png"
+    "revision": "b612578f07caeb67931d83a102e62e51",
+    "url": "/static/media/logo.b612578f.png"
   },
   {
     "revision": "90df0414aa6cae5ba0bf22473b242255",
