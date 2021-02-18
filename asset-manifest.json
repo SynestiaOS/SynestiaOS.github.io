@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.c3f36f17.chunk.css",
-    "main.js": "/static/js/main.6f97e10d.chunk.js",
-    "main.js.map": "/static/js/main.6f97e10d.chunk.js.map",
+    "main.js": "/static/js/main.0f10d8e9.chunk.js",
+    "main.js.map": "/static/js/main.0f10d8e9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfca2edd.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfca2edd.js.map",
     "static/css/2.300c0e58.chunk.css": "/static/css/2.300c0e58.chunk.css",
-    "static/js/2.e89c0eb2.chunk.js": "/static/js/2.e89c0eb2.chunk.js",
-    "static/js/2.e89c0eb2.chunk.js.map": "/static/js/2.e89c0eb2.chunk.js.map",
+    "static/js/2.15947d55.chunk.js": "/static/js/2.15947d55.chunk.js",
+    "static/js/2.15947d55.chunk.js.map": "/static/js/2.15947d55.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c7b7b2e88bd90590fad5b1aa6b266c83.js": "/precache-manifest.c7b7b2e88bd90590fad5b1aa6b266c83.js",
+    "precache-manifest.7577420c9b9a70cf7a5f57df356711e6.js": "/precache-manifest.7577420c9b9a70cf7a5f57df356711e6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.300c0e58.chunk.css.map": "/static/css/2.300c0e58.chunk.css.map",
     "static/css/main.c3f36f17.chunk.css.map": "/static/css/main.c3f36f17.chunk.css.map",
-    "static/js/2.e89c0eb2.chunk.js.LICENSE.txt": "/static/js/2.e89c0eb2.chunk.js.LICENSE.txt",
+    "static/js/2.15947d55.chunk.js.LICENSE.txt": "/static/js/2.15947d55.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/ZillaSlab-Regular.53cbc7a5.otf",
     "static/media/alipay.png": "/static/media/alipay.07cd3605.png",
     "static/media/lo.png": "/static/media/lo.d87bcc52.png",
     "static/media/logo配色图-2.png": "/static/media/logo配色图-2.b81b9465.png",
+    "static/media/loo.png": "/static/media/loo.a25f5c15.png",
     "static/media/wepay.png": "/static/media/wepay.90df0414.png",
     "static/media/透明底logo-2.png": "/static/media/透明底logo-2.b56ee877.png",
     "static/media/透明底反黑图-2.png": "/static/media/透明底反黑图-2.ed09456c.png",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.bfca2edd.js",
     "static/css/2.300c0e58.chunk.css",
-    "static/js/2.e89c0eb2.chunk.js",
+    "static/js/2.15947d55.chunk.js",
     "static/css/main.c3f36f17.chunk.css",
-    "static/js/main.6f97e10d.chunk.js"
+    "static/js/main.0f10d8e9.chunk.js"
   ]
 }
