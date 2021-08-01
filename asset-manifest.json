@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.469593af.chunk.css",
-    "main.js": "/static/js/main.6b1aa743.chunk.js",
-    "main.js.map": "/static/js/main.6b1aa743.chunk.js.map",
+    "main.css": "/static/css/main.29748f43.chunk.css",
+    "main.js": "/static/js/main.2c9da492.chunk.js",
+    "main.js.map": "/static/js/main.2c9da492.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfca2edd.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfca2edd.js.map",
     "static/css/2.e3520c42.chunk.css": "/static/css/2.e3520c42.chunk.css",
     "static/js/2.53c13682.chunk.js": "/static/js/2.53c13682.chunk.js",
     "static/js/2.53c13682.chunk.js.map": "/static/js/2.53c13682.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.eb3381a80e33903a838fb7066ac05fe1.js": "/precache-manifest.eb3381a80e33903a838fb7066ac05fe1.js",
+    "precache-manifest.3fb79638bae9c94d1a06998d7d87ca8b.js": "/precache-manifest.3fb79638bae9c94d1a06998d7d87ca8b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e3520c42.chunk.css.map": "/static/css/2.e3520c42.chunk.css.map",
-    "static/css/main.469593af.chunk.css.map": "/static/css/main.469593af.chunk.css.map",
+    "static/css/main.29748f43.chunk.css.map": "/static/css/main.29748f43.chunk.css.map",
     "static/js/2.53c13682.chunk.js.LICENSE.txt": "/static/js/2.53c13682.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/ZillaSlab-Regular.53cbc7a5.otf",
     "static/media/alipay.png": "/static/media/alipay.07cd3605.png",
     "static/media/lo.png": "/static/media/lo.d87bcc52.png",
     "static/media/logo-s.png": "/static/media/logo-s.61851c59.png",
+    "static/media/logo-s.svg": "/static/media/logo-s.d41aec0a.svg",
     "static/media/logo配色图-2.png": "/static/media/logo配色图-2.b81b9465.png",
-    "static/media/loo.png": "/static/media/loo.a25f5c15.png",
     "static/media/wepay.png": "/static/media/wepay.90df0414.png",
     "static/media/透明底logo-2.png": "/static/media/透明底logo-2.b56ee877.png",
     "static/media/透明底反黑图-2.png": "/static/media/透明底反黑图-2.ed09456c.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.bfca2edd.js",
     "static/css/2.e3520c42.chunk.css",
     "static/js/2.53c13682.chunk.js",
-    "static/css/main.469593af.chunk.css",
-    "static/js/main.6b1aa743.chunk.js"
+    "static/css/main.29748f43.chunk.css",
+    "static/js/main.2c9da492.chunk.js"
   ]
 }
